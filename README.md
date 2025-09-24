@@ -14,8 +14,8 @@ Este repositório centraliza os projetos realizados ao longo da disciplina, engl
 
 O repositório está dividido em duas partes:
 
-- `/Primeira-nota/` → Contém o **primeiro projeto da disciplina**, referente à Nota 1.
-- `/Segunda-nota/` → Contém o **repositório principal da disciplina**, correspondente às Notas 2 e 3.
+- `/Primeira-Nota/` → Contém o **primeiro projeto da disciplina**, referente à Nota 1.
+- `/Segunda-Nota/` → Contém o **repositório principal da disciplina**, correspondente às Notas 2 e 3.
 
 Cada pasta mantém seu código-fonte, testes e arquivos relacionados ao projeto.
 
