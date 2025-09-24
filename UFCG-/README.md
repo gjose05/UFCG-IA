@@ -1,7 +1,6 @@
 # Trabalho de Implementação – Nota 1  
 **Disciplina:** Inteligência Artificial (IA)  
 **Professor:** Eanes  
-**Data de Entrega:** 17 de julho de 2025, até meia-noite  
 
 ## 📋 Descrição
 
